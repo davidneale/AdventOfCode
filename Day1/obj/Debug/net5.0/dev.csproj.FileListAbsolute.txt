@@ -1,0 +1,16 @@
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.exe
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.deps.json
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.runtimeconfig.json
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.runtimeconfig.dev.json
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.dll
+C:\dev\AdventOfCode\Day1\bin\Debug\net5.0\dev.pdb
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.csproj.AssemblyReference.cache
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.AssemblyInfoInputs.cache
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.AssemblyInfo.cs
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.csproj.CoreCompileInputs.cache
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.dll
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\refint\dev.dll
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.pdb
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\dev.genruntimeconfig.cache
+C:\dev\AdventOfCode\Day1\obj\Debug\net5.0\ref\dev.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9p9TmitydZI4nt8C4dpPcQdkXTRKdfcOpkIsCDZO0semxMTZ8nzgURd7SuRE4AEfdv83RbmmStvA0H220CAIw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\AdventOfCode\\Day1\\dev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dagn3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
